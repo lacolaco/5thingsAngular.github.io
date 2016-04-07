@@ -9,3 +9,5 @@ permalink: /about/
 5thingsAngular gives you 5 of the latest and greatest updates on what's happening right now in the development and the community of Angular every week so you can focus on the important things.
 
 Follow [@5thingsAngular](http://twitter.com/5thingsAngular) on Twitter and subscribe to our weekly newsletter to stay up-to-date.
+
+This project is powered by [thoughtram](http://twitter.com/thoughtram) &lt;3
