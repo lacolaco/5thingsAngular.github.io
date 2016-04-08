@@ -1,5 +1,5 @@
 # Site settings
-title: 5thingsAngular
+title: 5thingsAngular - Get weekly updates on 5 things Angular
 description: > # this means to ignore newlines until "baseurl:"
   Get weekly updates on 5 things Angular
 baseurl: "" # the subpath of your site, e.g. /blog/
