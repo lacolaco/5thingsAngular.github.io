@@ -1,0 +1,26 @@
+@charset "utf-8";
+$five-blue: #81D4FA;
+$five-green: #C5E1A5;
+$five-yellow: #FFE082;
+$five-red: #EF9A9A;
+$five-purple: #B39DDB;
+$five-blue-dark: #66A7C5;
+
+$text-color: #222;
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  color: $text-color;
+}
+
+a:visited {
+  color: $five-blue-dark;
+}
+
+.logo {
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+  margin-top: 1em;
+}
