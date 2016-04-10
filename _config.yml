@@ -9,3 +9,4 @@ github_username:  5thingsAngular
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
